@@ -49,6 +49,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
