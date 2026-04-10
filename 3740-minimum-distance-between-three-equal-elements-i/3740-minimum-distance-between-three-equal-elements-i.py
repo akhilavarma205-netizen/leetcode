@@ -15,3 +15,4 @@ class Solution:
                 res = min(res, (pos - old) << 1)
 
         return -(res == 200) | res
+        
