@@ -1,18 +1,21 @@
 class Solution:
     def minimumDistance(self, nums: List[int]) -> int:
         n = len(nums)
-        last2 = [0] * n
-        res = 200
+        nxt = [-1] * n
+        occur = {}
+        ans = n + 1
+
+        for i in range(n - 1, -1, -1):
+            if nums[i] in occur:
+                nxt[i] = occur[nums[i]]
+            occur[nums[i]] = i
 
         for i in range(n):
-            val, pos = nums[i] - 1, i + 1
-            pack = last2[val]
-            old, cur = pack & 255, pack >> 8
+            second_pos = nxt[i]
+            if second_pos != -1:
+                third_pos = nxt[second_pos]
+                if third_pos != -1:
+                    ans = min(ans, third_pos - i)
 
-            last2[val] = cur | (pos << 8)
-
-            if old:
-                res = min(res, (pos - old) << 1)
-
-        return -(res == 200) | res
+        return -1 if ans == n + 1 else ans * 2
         
