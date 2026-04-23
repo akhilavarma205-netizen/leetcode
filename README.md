@@ -114,4 +114,16 @@ leetcode
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/akhilavarma205-netizen/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/akhilavarma205-netizen/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
