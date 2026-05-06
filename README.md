@@ -6,6 +6,7 @@ leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -45,6 +46,7 @@ leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/akhilavarma205-netizen/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
