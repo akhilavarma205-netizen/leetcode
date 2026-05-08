@@ -64,6 +64,7 @@ leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
