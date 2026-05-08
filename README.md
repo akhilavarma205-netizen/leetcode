@@ -8,6 +8,7 @@ leetcode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0015-3sum/) | Medium |
+| [0455-assign-cookies](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -90,6 +91,7 @@ leetcode
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/akhilavarma205-netizen/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Union-Find
@@ -100,6 +102,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0015-3sum/) | Medium |
+| [0455-assign-cookies](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [2751-robot-collisions](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/akhilavarma205-netizen/leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -147,6 +150,7 @@ leetcode
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0015-3sum/) | Medium |
+| [0455-assign-cookies](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
