@@ -9,6 +9,7 @@ leetcode
 | [0001-two-sum](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0015-3sum/) | Medium |
 | [0455-assign-cookies](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -92,6 +93,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/akhilavarma205-netizen/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Union-Find
