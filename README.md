@@ -51,6 +51,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/akhilavarma205-netizen/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -125,16 +126,19 @@ leetcode
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Two Pointers
@@ -142,4 +146,13 @@ leetcode
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0015-3sum/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 <!---LeetCode Topics End-->
