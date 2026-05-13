@@ -12,6 +12,7 @@ leetcode
 | [0860-lemonade-change](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -47,6 +48,7 @@ leetcode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2906-construct-product-matrix](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/akhilavarma205-netizen/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Hash Table
@@ -55,6 +57,7 @@ leetcode
 | [0001-two-sum](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhilavarma205-netizen/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/akhilavarma205-netizen/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akhilavarma205-netizen/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
