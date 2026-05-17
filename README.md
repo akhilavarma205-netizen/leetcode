@@ -11,6 +11,7 @@ leetcode
 | [0455-assign-cookies](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1306-jump-game-iii](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -161,8 +162,10 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1306-jump-game-iii](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilavarma205-netizen/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1306-jump-game-iii](https://github.com/akhilavarma205-netizen/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->
